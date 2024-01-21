@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BrewsPlays</h1>
 <h3 align="center">Im proffesional programator on python/batch/minecraft scripts.</h3>
 
-- 🔭 I’m currently working on [Pinger](https://github.com/BrewsPlays/-PINGER-2.0-)
+- 🔭 I’m currently working on [Discord spammers](https://github.com/BrewsPlays/Gh0sterWebhookSpammer)
 
 - 🌱 I’m currently learning **Python**
 
